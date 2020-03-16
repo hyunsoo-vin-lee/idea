@@ -1,0 +1,1 @@
+financial 화면에서 데이터를 export받아서 엑셀에서 데이터를 입력 후 import로 넣기 개발
